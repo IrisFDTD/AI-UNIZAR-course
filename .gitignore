@@ -6,9 +6,11 @@ __pycache__/
 *.png
 *.h5
 *.dat
+*.txt
 readme_antes_de_dar_la_clase.txt
-IsingModel.ipynb
-montecarlo/*
+ising/IsingModel.ipynb
+ising/montecarlo/*
+ising/readme_antes_de_dar_la_clase.txt
 # C extensions
 *.so
 
