@@ -1,7 +1,5 @@
----
 ** Introduction to Artificial Intelligence - UNIZAR**
 ---
-
 ```
 Sergio G Rodrigo
 Departamento de Física Aplicada
