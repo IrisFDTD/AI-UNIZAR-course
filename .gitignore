@@ -2,12 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
-ai_unizar_course_scattering.ipynb
-ai_unizar_course_ising_model.ipynb
-ai_unizar_course_classifying_digits_23-24.ipynb
-ai_unizar_course_recurrent_neural_networks.ipynb
-
+eot/*
+ising/*
+minst/*
+recurrent_networks/*
 README_with_links.md
+
 *.png
 *.h5
 *.dat
