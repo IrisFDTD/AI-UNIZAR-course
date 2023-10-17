@@ -8,6 +8,7 @@ minst/*
 recurrent_networks/*
 README_with_links.md
 
+intro_python/
 *.png
 *.h5
 *.dat
