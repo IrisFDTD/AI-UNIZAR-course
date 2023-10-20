@@ -2,13 +2,17 @@
 __pycache__/
 *.py[cod]
 *$py.class
-eot/*
-ising/*
-minst/*
-recurrent_networks/*
-README_with_links.md
 
 intro_python/
+eot/*
+deltas/*
+minst/*
+ising/*
+recurrent_networks/*
+
+README_with_links.md
+
+*.py
 *.png
 *.h5
 *.dat
