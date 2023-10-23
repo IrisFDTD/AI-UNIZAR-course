@@ -4,10 +4,9 @@ __pycache__/
 *$py.class
 
 intro_python/
-eot/*
 deltas/*
 minst/*
-ising/*
+ising_model/*
 recurrent_networks/*
 
 README_with_links.md
@@ -17,6 +16,7 @@ README_with_links.md
 *.h5
 *.dat
 *.txt
+*.keras
 ai_unizar_course_scattering_calculation_ME.ipynb
 ai_unizar_course_index_tensorflow-keras.ipynb
 readme_antes_de_dar_la_clase.txt
