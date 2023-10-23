@@ -2,6 +2,7 @@
 
 1. **[Regression with Dense Neural Networks (DNN).](regression/ai_unizar_course_regression_1.ipynb)**
 2. **Numerical method surrogates and autoencoders with DNNs.**
+   
    2.1  *[Numerical method surrogate (Extraordinary Optical Transmission with DNNs)](eot/ai_unizar_course_scattering.ipynb)*
 4. **[Handwritten digit classification with Convolutional Neural Networks (CNN).]()**
 5. **[Application of CNNs to magnetism: 2D Ising model.]()**
