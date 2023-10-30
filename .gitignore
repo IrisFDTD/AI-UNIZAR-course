@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 intro_python/
-deltas/*
 minst/*
 ising_model/*
 ising/*
@@ -18,6 +17,7 @@ README_with_links.md
 *.dat
 *.txt
 *.keras
+ai_unizar_course_regression_2.ipynb
 ai_unizar_course_scattering_calculation_ME.ipynb
 ai_unizar_course_index_tensorflow-keras.ipynb
 readme_antes_de_dar_la_clase.txt
