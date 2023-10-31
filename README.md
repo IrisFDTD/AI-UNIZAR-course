@@ -7,7 +7,7 @@
    
    2.2  *[Denoising autoencoders witn DNNs: Transmission of an electron through a potential barrier](deltas/ai_unizar_course_deltas.ipynb)*
    
-4. **[Handwritten digit classification with Convolutional Neural Networks (CNN).]()**
+4. **[Handwritten digit classification with Convolutional Neural Networks (CNN).](minst/ai_unizar_course_classifying_digits_23-24.ipynb)**
 5. **[Application of CNNs to magnetism: 2D Ising model.]()**
 6. **[Time Series Prediction with Recurrent Neural Networks (RNN)]().**
 7. **[Solving Ordinary Differential Equations with neural networks]().**
