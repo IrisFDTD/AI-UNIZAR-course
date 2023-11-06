@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 intro_python/
-ising_model/*
+
 ising/*
 recurrent_networks/*
 
