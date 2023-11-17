@@ -10,7 +10,7 @@
 4. **[Handwritten digit classification with Convolutional Neural Networks (CNN).](minst/ai_unizar_course_classifying_digits_23-24.ipynb)**
 5. **[Application of CNNs to magnetism: 2D Ising model.](ising_model/ai_unizar_course_ising_model.ipynb)**
 6. **[Time Series Prediction with Recurrent Neural Networks (RNN)](recurrent_networks/ai_unizar_course_recurrent_neural_networks.ipynb).**
-7. **[Solving Ordinary Differential Equations with neural networks](https://github.com/IrisFDTD/PINNs-for-education).**
+7. **[Solving Ordinary Differential Equations with neural networks]().**
 8. **[Discovering discrete symmetry groups with neural networks](https://github.com/IrisFDTD/Symmetry_Seeker_NN/tree/main).**
 
 ```
