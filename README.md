@@ -2,9 +2,9 @@
 
 1. **[Regression with Dense Neural Networks (DNN).]**
    
-   1.1  *[Example with basic Keras]((regression/ai_unizar_course_regression_1.ipynb))*
+   1.1  *[Example with basic Keras](regression/ai_unizar_course_regression_1.ipynb)*
    
-   1.2  *[Example with Tensorflow-Keras API]((regression/ai_unizar_course_regression_2.ipynb))*   
+   1.2  *[Example with Tensorflow-Keras API](regression/ai_unizar_course_regression_2.ipynb)*   
 2. **Numerical method surrogates and autoencoders with DNNs.**
    
    2.1  *[Numerical method surrogate with DNNs: Extraordinary Optical Transmission](eot/ai_unizar_course_scattering.ipynb)*
