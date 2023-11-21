@@ -1,6 +1,6 @@
 # **Introduction to Artificial Intelligence UNIZAR: Advanced Neural Networks with TensorFlow-Keras**
 
-1. **[Regression with Dense Neural Networks (DNN).]**
+1. **Regression with Dense Neural Networks (DNN).**
    
    1.1  *[Example with basic Keras](regression/ai_unizar_course_regression_1.ipynb)*
    
