@@ -2,7 +2,7 @@
 
 1. **Regression with Dense Neural Networks (DNN).**
    
-   1.1 *[Example with basic Keras](https://nbviewer.jupyter.org/github.com/IrisFDTD/AI-UNIZAR-course/blob/main/regression/ai_unizar_course_regression_1.ipynb)*   
+   1.1 *[Example with basic Keras](https://nbviewer.jupyter.org/github/IrisFDTD/AI-UNIZAR-course/blob/main/regression/ai_unizar_course_regression_1.ipynb)*   
    
    1.2  *[Example with Tensorflow-Keras API](https://nbviewer.jupyter.org/github/IrisFDTD/AI-UNIZAR-course/blob/main/regression/ai_unizar_course_regression_2.ipynb)*   
 3. **Numerical method surrogates and autoencoders with DNNs.**
