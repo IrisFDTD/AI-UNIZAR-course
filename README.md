@@ -11,7 +11,7 @@
    
    2.2  *[Denoising autoencoders witn DNNs: Transmission of an electron through a potential barrier](https://nbviewer.jupyter.org/github/IrisFDTD/AI-UNIZAR-course/blob/main/deltas/ai_unizar_course_deltas.ipynb)*
    
-4. **[Handwritten digit classification with Convolutional Neural Networks (CNN).](https://nbviewer.jupyter.org/github/IrisFDTD/AI-UNIZAR-course/blob/main/minst/ai_unizar_course_classifying_digits_23-24.ipynb)**
+4. **[Handwritten digit classification with Convolutional Neural Networks (CNN).](https://nbviewer.jupyter.org/github/IrisFDTD/AI-UNIZAR-course/blob/main/minst/ai_unizar_course_classifying_digits.ipynb)**
 5. **[Application of CNNs to magnetism: 2D Ising model.](https://nbviewer.jupyter.org/github/IrisFDTD/AI-UNIZAR-course/blob/main/ising_model/ai_unizar_course_ising_model.ipynb)**
 6. **[Time Series Prediction with Recurrent Neural Networks (RNN)](https://nbviewer.jupyter.org/github/IrisFDTD/AI-UNIZAR-course/blob/main/recurrent_networks/ai_unizar_course_recurrent_neural_networks.ipynb).**
 7. **[Solving Ordinary Differential Equations with Physics Informed Neural Networks (PINN)](https://nbviewer.jupyter.org/github/IrisFDTD/AI-UNIZAR-course/blob/main/ode/ai_unizar_course_ode.ipynb).**
