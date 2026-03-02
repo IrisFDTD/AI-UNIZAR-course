@@ -25,8 +25,11 @@ readme_antes_de_dar_la_clase.txt
 ising/IsingModel.ipynb
 ising/montecarlo/*
 ising/readme_antes_de_dar_la_clase.txt
+regression/ai_unizar_course_regression_2 - deprecated.ipynb
+
 # C extensions
 *.so
+*.txt
 
 # Distribution / packaging
 .Python
