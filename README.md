@@ -4,7 +4,7 @@
    
    1.1 *[Example with basic Keras](https://nbviewer.jupyter.org/github/IrisFDTD/AI-UNIZAR-course/blob/main/regression/ai_unizar_course_regression_1.ipynb)*   
    
-   1.2  *[Example with Tensorflow-Keras API](https://nbviewer.jupyter.org/github/IrisFDTD/AI-UNIZAR-course/blob/main/regression/ai_unizar_course_regression_3.ipynb)*   
+   1.2  *[Example with Tensorflow-Keras API](/regression/ai_unizar_course_regression_3.ipynb)*   
 3. **Numerical method surrogates and autoencoders with DNNs.**
    
    2.1 *[Numerical method surrogate with DNNs: Fano model](https://nbviewer.jupyter.org/github/IrisFDTD/AI-UNIZAR-course/blob/main/eot/ai_unizar_course_scattering_2.ipynb)*
